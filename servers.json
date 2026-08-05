@@ -1,5 +1,12 @@
 {
   "network": "MeshIRCd",
-  "version": 1,
-  "servers": {}
+  "version": 2,
+  "servers": {
+    "irc.reviewcommit.com": {
+      "port": 6697,
+      "pubkey": "ed25519:wqDLG3Lf4cDpfDENcpNYJ2q9zy1TyCUh5h9ddgZt2Bo=",
+      "admin": "mark@reviewcommit.com",
+      "location": "US-West"
+    }
+  }
 }
