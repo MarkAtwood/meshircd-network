@@ -4,7 +4,7 @@
   "servers": {
     "irc.reviewcommit.com": {
       "port": 6697,
-      "pubkey": "ed25519:wqDLG3Lf4cDpfDENcpNYJ2q9zy1TyCUh5h9ddgZt2Bo=",
+      "pubkey": "ed25519:yPkdqoARhduly9pmNud/F8y+xIJ0mG/tH/Eg66TKCsY=",
       "admin": "mark@reviewcommit.com",
       "location": "US-West"
     }
