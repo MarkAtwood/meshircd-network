@@ -1,0 +1,9 @@
+Welcome to MeshIRCd Network
+
+A federated IRC network with no central authority.
+Servers find each other via GitHub. Join with a PR.
+
+Source: https://github.com/MarkAtwood/meshIRCd
+Network: https://github.com/MarkAtwood/meshircd-network
+
+Rules: Don't be a jerk.
